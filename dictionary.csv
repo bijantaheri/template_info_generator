@@ -1,0 +1,1819 @@
+,0
+Flow,flow
+Diameter,diameter
+Status,lp_status
+Knude ID,knudeid
+Område,omraade
+Antal børn,antalboerne
+Opsamlingsadresse,opsamlingsadresse
+Ejerforhold,ejerforhold
+Åbningstid,toilet_aaben_tid
+Leder,ledernavn
+Telefon,enhedstelefonnr
+Email,''
+Hjemmeside,hjemmeside
+Projekttype,pv_projekt_type
+Projektbeskrivelse,beskrivelse_af_projekt
+Kontakt,kontakt
+Tlf,pv_tlf
+Projekt start,start_dato
+Projekt slut,slut_dato
+Antal forløb pr. rode,antal_forloeb
+Bydel,bydel
+Lovgrundlag,lovgrundlag
+Aktiveringskategori,tilbudskategori
+"Antal borgere, der modtager ydelse",antal_borgere
+Projekt,projekt
+Læs mere i projektbanken,link
+Type,type
+Vejnavn,vejnavn
+Hus nr,husnr
+Juridisk grundlag,juridisk_grundlag
+Kontakt telefon,kontakttelefon
+Kontakt person 1,Kontaktperson_1
+kontakt mail,kontakt_mail
+Hyperlink,hyperlink_kan_kun_postes_paa_k
+Institutionsstype,insttype2
+Institutionstype,insttype1
+Myndighed,myndighed_fuldt_navn
+Myndighed forkortet,forkortet
+Kontakt mail,kontakt_mail
+Kontaktperson 1,kontaktperson_1
+Kontaktperson 1 tlf.,kp1_tlf
+Kontaktperson 1 mail,kp1_mail
+Kontaktperson 2,kontaktperson_2
+Kontaktperson 2 tlf.,kp2_tlf
+Kontaktperson 2 mail,kp2_mail
+Kontaktperson 3,kontaktperson_3
+Kontaktperson 3 tlf.,kp3_tlf
+Kontaktperson 3 mail,kp3_mail
+Kontaktperson 4,kontaktperson_4
+Kontaktperson 4 tlf.,kp4_tlf
+Kontaktperson 4 mail,kp4_mail
+Kontaktperson 5,kontaktperson_5
+Kontaktperson 5 tlf.,kp5_tlf
+Kontaktperson 5 mail,kp5_mail
+Kontaktperson 6,kontaktperson_6
+Kontaktperson 6 tlf.,kp6_tlf
+Kontaktperson 6 mail,kp6_mail
+Link,link
+"Gennemsnitligt antal borgere, der modtager ydelse",gennemsnitligt_antal_sager
+"if IsDefined(shape_wkt) then GeometryType(shape_wkt) else 
+				""GEOMETRY UNDEFINED"" endif",pcolid
+About,beskrivelse
+Read more on the City of Copenhagen website,pdf_link
+Navn,NAVN
+Tidsramme,tidsramme
+Indsats,indsats
+Klik for mere information,link
+Forventet start,forventet_start
+Forventet slut,forventet_slut
+Yderligere info,yderligere_info
+Link til projektbeskrivelse,link_til_projbesk
+Samarbejdspartner,samarbejdspartner
+Noter,noter
+Sidst opdateret,sidst_opdateret
+Ejer,ejer
+Link til regulativ,linktilregulativ
+Vej,vejnavn
+Længde,længde
+Bredde,bredde
+Cykelsti type,beskrivelse
+Vejstatus,vejstatus
+Antal pladser,antal_pladser
+P ordning,p_ordning
+Parkerings type,p_type
+Rettelse dato,rettelsedato
+Bemærkning,bemÆrkning
+Betalingszone,betalingszone
+Antal udtag,antal_udtag
+Operatør,operator
+Bemærkninger,bemaerkninger
+KK-org nr,kkorgnr
+Enhedsnavn,enhedsnavn
+Enhedstype,enhedstype
+Forvaltning,forvaltning
+Postnummer,postnummer
+Læs mere her,www
+Opland,opland
+Postdistrikt,postdistrikt
+Ejerstatus,ejer_status
+Vejkode,vejkode
+Husnr,husnr
+P-zone,p_zone
+Beboerzone,beboer_zone
+Placering,placering
+Ejerlavskode,ejerlavkode
+Rettet dato,opret_dato
+Boldbanens type,boldbane_type
+Sæson,saeson
+Driftsplan,Driftsplan_navn
+Parknavn,parknavn
+Id,id
+Legepladstype,
+Beliggenhed,adressebeskrivelse
+Beskrivelse,beskrivelse
+Læs mere om legepladsen på kk.dk,link_kkdk
+Lokalitet,lokalitet
+Opsyn,opsyn
+Handicapadgang,handicapadgang
+Mandag,mandag
+Tirsdag,tirsdag
+Onsdag,onsdag
+Torsdag,torsdag
+Fredag,fredag
+Lørdag,loerdag
+Søndag,soendag
+Bemærkning til åbningstid,aabningstid_bemrk
+Anden bemærkning,anden_bemaerkning
+Ejerskab,EJERSKAB
+Stoppestednavn,name
+Buslinjer,buslist
+Takstzone,tariffzone
+Vis PDF-fil af tinglysningskort,link
+Stedbeskrivelse,beskrivelse
+Tælle type,taellested_type
+Antal køretøjer,ktj_7_19
+Tung %,tung_pct
+Årsdøgnstrafik (ÅDT),aadt_koretojer
+Hverdagsdøgn (HVDT),hvdt_koretojer
+Antal cykler,cykler_7_19
+ÅDT cykler,aadt_cykler
+HVDT cykler,hvdt_cykler
+Distrikt,distriktnavn
+Ansvarsområde id,ansvarsomrid
+Årsag,forpligtelsesaarsag
+Opgave,arbejdsopgave
+Rute nr.,rutenr
+Rutenavn,rutenavn
+Stationstype,objekt_type
+Projekt ID.,projektid
+TMF ID.,tmfid
+Ansvarlig,ansvarlig
+Note,note
+Link til projektet på KK.dk,link
+Budgetår,budgettema
+ID,cell_key
+Forslagsår,forslags_aar
+Projektpakke,projekt_pakke
+Projektnr,projekt_nr
+Projektnavn,fk_projektnavn
+Udstrækning,Udstraekning
+Kategori,kategori
+Bro/tunnel,bro_tunnel
+Kryds,kryds
+Projektpris (skøn),projektpris_skoen
+P-omkostninger,
+Provenuetab,p_provenuetab
+Behov for nedlæggelse,p_behov_nedlaeg
+Biltrafik,biltrafik
+Cykeltrafik,cykeltrafik
+Del af Plusnet,del_af_plusnet
+Del af Grøn Rute,del_af_groen_rute
+Del af Cykelsupersti,del_af_cykelsupersti
+Stjerne beløb,stjerne_beloeb
+Cykler i spidstimen,cykler_i_spidstimen
+Bygværkstype,btype
+Sagsnr,sagsnr
+Sagsnavn,sagsnavn
+Ejes af.,ejes_af
+Vedligeholdes af,vedlh_af
+Vedligehold regn,vedlh_regn
+Opført år,opfoert_aar
+Genopretning år,genopraetning_aar
+Tilsyn 1,tilsyn1
+Tilsyn 2,tilsyn2
+Frihøjde ind,frihoejde_ind
+Frihøjde ud,frihoejde_ud
+Bæreevne,baereevne
+ID.,id
+Vej id,vej_id
+Side,side
+Fra stationering,fra_st
+til stationering,til_st
+Materiale,materiale
+År,aar
+Bane,bane
+Produkt,produkt
+Investering,investering
+Akk,akk
+BC,bc
+AG nr.,ag_nr
+Krydsets  navn,krydsets_navn
+Gruppe nr.,gruppe_nr
+Drift,drift
+Tælleområde nr,taelleomraade
+Zone,zone
+Antal mulige nye P-pladser,mulige_pladser
+Antal mulige nye P-pladser i omr.,samlet_pladser_omr
+KK-org ID,kkorg_id
+Åbningstider,d_openinghours
+Præsentationsfolder,d_praesentationsfolder
+Smileryrapport,d_smileyrapport
+Ejeradresse,ejer_adresse
+Antal værelser,antvaer
+Køkkenforhold,koekkenforhold
+Toiletforhold,toiletforhold
+Badforhold,badforhold
+Boligselskab,selskabsnavn
+Selskabsinfo,selskabsnr
+Primær boligtype,primboligtype
+Ejendoms nr,ejendomsnr
+Boligtype,boligtype_tekst
+Antal beboere i enheden,antal_beboere
+Boligarealet,samareal
+Opførelsesår,opfoerelsesaar
+Del af udsat byområde,udsatte_byomraade
+Skolegrunddistrikt,skolenavn
+Antal boliger i alt,bolig
+Antal almene boliger,almene
+Andel almene boliger (%),procent
+Samlet afdelings matrikel areal,netto_areal
+Gemmesnits husleje per afd.,gns_husleje
+Antal enheder per afd.,antal_enheder
+Antal uden husleje angivelse,husleje_fejl
+Antal enheder under 3500,husleje_under_3500
+Antal enheder 3500-5000,husleje_3500_5000
+Antal enheder 5000-6500,husleje_5000_6500
+Antal enheder over 6500,husleje_over_6500
+Samlet enhedsareal,enh_arl_saml
+Ejendomsnr,ejendomsnr
+Afgørelsen,afgoerelse
+Energimærkning,energi_label_type_klasse
+Energi rapport valid fra,valid_fra
+Energi rapport valid til,valid_til
+Energi selskabsnavn,selskabsnavn
+Se energimærkningsrapport her: (OBS! tillad popups),pdf_link
+Ejendomsnr.,ejendomsnr
+Bygning nr.,bygningsnr
+Bygningsanvendelse,anvendelse
+Opført/Sidst renoveret,energi_aar
+Varmeinstallation,varmeinstallation
+Samlet bygningsareal,samlet_bygningsareal
+Bebygget areal,byg_bebyg_arl
+Bevaringsværdi,bevaringsvaerdi
+Bygnings ID,byg_id
+Byfornyelses ID,byf_id
+Vedtaget byråd,vedtaget_br
+Regnskab godkendt,regnskab_godkendt
+Berørte matrikler,matr_nr
+Bygningsnr,bygnings_nr
+Fredningsstatus,fredningsstatus
+Bevaringsværdi SAVE,bevaringsvaerdi
+Bevaringsbeskrivelse,bevarings_beskriv
+Kulturstyrelsens Bygn id,byg_save_id
+Anvendelse,anvendelse
+Opførselsår,opfoerelsesaar
+Se fredningsbeskrivelse direkte fra kulturstyrelsen,frednings_beskrivelse
+Betegnelse,betegnelse
+Bygnings type,bygnings_type
+Oprindelig funktion,oprind_funktion
+Nuværende funktion,nuv_funktion
+Bevarings vurdering,bevarings_vurdering
+Arkitekt vaerdi,arkitekt_vaerdi
+Arkitekt vurdering,arkitekt_vurdering
+Kulturhistoriske vaerdi,kulturhist_vaerdi
+Kulturhistoriske vurdering,kulturhist_vurdering
+Miljø vaerdi,miljoe_vaerdi
+Miljø vurdering,miljoe_vurdering
+Originalitetsvaerdi,originalitetsvaerdi
+Originalitetsvurdering,originalitetsvurdering
+Tilstandsvaerdi,tilstandsvaerdi
+Tilstandsvurdering,tilstandsvurdering
+Karrenavn,karrenavn
+Vedtaget i BR/TMU/BM,vedtaget_br
+Registrerings dato,reg_dato
+Saneringsplan nr,saneringsplan_nr
+Antal boliger (baseret på antal lejligheder med/uden køkken),antal_lejl
+Cykel parkering,cykel_parkering
+Antal træer,antal_traeer
+Antal nedlagte P-pladser,nedlagte_p_pladser
+Regnvandshåndtering,regnvandshaandtering
+Udsat byområde,uds_omraade_navn
+Ghettotype,ghettotype
+Plan navn,plannavn
+Afdeling,afdeling
+Helhedsplan,helhedsplan
+Højde,nav_hoejde
+Nr,rute_nr
+Afsnit,afsnit
+Projektleder,pl
+Se startredegørelsen her,startredegoerelse_link
+Lokaludvalgsprojekt,lokaludvalgsprojekter
+Tema,tema
+Implementering,implementering
+Emneord,emneord
+Økonomi,oekonomi_tekst
+Årstal,aarstal
+karrenr,karre
+Vis byplanvedtægt '+trim(plannr),link
+Plan nr,plannr
+Modtaget,modtaget
+eDoc Sagsnr,esdh_ref
+Sagstype,sagstype
+Sagsstatus,sags_status
+Hovedejer navn,hovedejer_navn
+Ansøger navn,ansoeger_navn
+Ejerlejlighedsnummer,ejerlejlighedsnummer
+Sagsadresse,sagsadresse
+Sagen seneste håndteret af,aktivitetsbehandler_fra_senest_aabnede_aktivitet
+Sagskategori,sagskategori
+Post nr.,postnr
+Kontaktperson,dato_for_udfoerelse
+Nødafkast,noedafkast
+Kode,sognkode
+ESR ejendomsnr.,esr_ejdnr
+SFE ejendomsnr.,sfe_ejdnr
+Matrikelnr.,matrikelnr
+Ejerlavsnavn,ejerlavsnavn
+Feature ID,feat_id
+Planteår,planteaar
+Vejklasse,vejklasse
+Objekt type,objekt_type
+Vis A-deklaration '+trim(navn),link
+Servituttype,servituttype
+Påtegninger,paategninger
+Generel anvendelse,generel_anvendelse
+Retningsplan,retningsplan
+Begrænset anvendelse,begr_anvendelse
+Udvidet anvendelse,udvidet_anvendelse
+Bebyggelsesform,bebyggelsesform
+Maksimal antal etager,maksimal_antal_etager
+Bebyggelsesreg 1,bebyggelsesreg_1
+Afstand til skel,afstand_til_skel
+Bebyggelsesreg 2,bebyggelsesreg_2
+Udformning af tagetage,udformning_af_tagetage
+Udnyttelse af tagetage,udnyttelse_af_tagetage
+Max bebygget areal,max_bebygget_areal
+Max udnyttelsesgrad,max_udnyttelsesgrad
+Udhuse,udhuse
+Afstand til vej,afstand_til_vej
+Facadecensur,facadecensur
+Ulempebestemmelser,ulempebestemmelser
+Friarealforhold,friarealforhold
+Byrder 1,byrder_1
+Byrder 2,byrder_2
+Byrder 3,byrder_3
+Hovedindhold,hovedindhold
+P_dekl,p_dekl
+Naturfredning,naturfredn
+Naturfredning bebyggelse,naturfredn_bebyg
+Afstand fra,afstand_fra
+Sammenbyg,sammenbyg
+Afstandskrav,afstandskrav
+Etageareal,etageareal
+Haveanlæg,haveanlaeg
+Grundejerforening,grundejerforening
+Reklamer,reklamer
+Notat 1,notat_1
+Notat 2,notat_2
+Notat 3,notat_3
+Deklaration,deklaration
+Jodstykke type,feat_type
+Matrikelnr,matrikel_nr
+Artskode,artskode
+Ejerforholdskode,ejerforholdskode
+Zonetype,zonetype
+Vis romertals-deklaration '+trim(navn),link
+Vis skødeservitut '+trim(navn),link
+Billede,picture_nr
+Foto dato,dato
+Tid,gps_time
+Husnummer,husnr
+Ejendoms nr.,ejendomsnummer
+Bygnings nr.,bygningsnummer
+Opførelses år,opfoerelse_aar
+Bygnings status,objektstatus
+Antal husstande,husstand
+Bygningnr,bygningsnr
+Bygnings Id,byg_id_org
+Byggesags Journalnr,b_jnr
+Opførselår,opfoerelse_aar
+Geometri status,geometri_status
+Tag konstruktion,tagdaekning
+Byggesagsnr,byggesags_id
+Objekttype,obj_type
+Objektstatus,objekt_status
+FOT Id,fot_id
+Metode,metode_3d
+Målested bygning,maalested_bygning
+Objekt status,objekt_status
+Anvendt applikation,applikation
+Forretningshændelse,forretningshaendelse
+Registreringsaktør,registreringsaktoer
+Bolig areal,byg_bolig_arl_saml
+Erhvervs areal,erhv_arl_saml
+BBR punkt,bbrpkt
+Synlighed,objekt_under
+Evt. navn,navn
+Aftalepart,aftalepart
+Aftale,aftale
+Estimeret_anlægsomkostning,estimeret_anlaegsomkostning
+Garantistillelse,garantistillelse
+Dagbod,dagbod
+Overdragelse til CTR,overdragelse_til_ctr
+Tinglysning,tinglysning
+Aftale nr,aftale_nr
+EDOc nr,eDoc_nr
+Areal forpligtigelse,areal_forpligtigelse
+Forventet aflevering,forventet_aflevering
+BR,br
+EDOC før 2017,edoc_foer_2017
+EDOC efter 2017,edoc_efter_2017
+Strøm,pladselement_stroem
+Belægning,belaegning
+Krav,pladselement_saerligkrav
+Bygningsnr.,bygningsnr
+byg_id,byg_id
+Solgruppe,solgruppe
+Max samlet areal i solgruppen,max_samlet_areal_solgruppe
+Straekning,straekning
+Projekt år,prj_aar
+Nye P-pladser,nye_p_pladser
+Erstatnings P-pladser,erstatnings_p_pladser
+Projekt status,status_beskrivelse
+Aftalegrundlag,aftalegrundlag
+Aftalegrundlag tekst,aftalegrundlag_txt
+Tidshorisont,aftalegrundlag_txt
+Beliggenhed.,ejendom_beliggenhed
+Ejerens navn,ejer_navn
+Administratorens navn,admin_navn
+Sted beskrivelse,adresse_beskrivelse
+Anvendelse eller lejer,anvendelse_og_lejer
+Antal P pladser,p_pladser
+Antal frie P-pl.,frie_pl
+Antal elbil pl.,elbil_pl
+Antal ladestander udtag,ladestander_udtag
+Antal ledige elbil pladser,ledige_elbil_pl
+Antal elbiler,antal_elbiler
+Antal biler i alt,antal_biler_total
+Stednavn,stednavn
+ID nummer,id
+Rutetype,rutetype
+Kajejer.,kaj_ejer
+Husbådnavn,navn
+Husbådtype,type
+Virksomhed,virksomhed
+Information,note
+Dybde,dybde
+Alle blomsterplanter,blomsterpl
+Kransnålalger,kransnaela
+Havgræs,havgraes
+Vandkrans,vandkrans
+Undernavn,undernavn
+Fredning,fredning
+Parknr.,parknummer
+Bassinnavn,bassinnavn
+Kajnavn,kajnavn
+Link til hjemmeside,link
+Label,label
+Udløbstype-kode,udloebstype_kode
+Overløb status,overloeb_pr_aar_status
+Overløb plan,overloeb_pr_aar_plan
+Vandmængde status,vandmaengde_status
+Vandmængde plan,vandmaengde_plan
+Indberetter,indberet
+"""pcolid""",oid
+Typ,requesttype
+Graveart,graveart
+Graveformål,graveformaal
+Der graves på kørebanen,start_dato
+Der graves på fortovet,end_dato
+Der graves på cykelstien,reetableringsplan
+Reetableres,bygherrenavn
+Kommentar,kommentar
+Intern kommentar,entrepnavn
+Bygherrenavn,entrepkontaktperson
+Byplan navn,bp_navn
+Byplan nummer,bp_nr
+Om Byplaner på kk.dk,pdf
+Selskab,selskab
+Områdetype,kp_ramme_11
+Risikogruppe,risikogruppe
+Helhed mio,helhed_mio
+Om Boligsociale helhedsplaner på kk.dk,hjemmeside
+Projekt sted,adresse
+Projekt titel,titel
+Projekt beskrivelse,beskrivelse
+Politisk aftale,politisk_aftale
+Samlede budgetudgifter 2014-18 (i 1.000 kr.),samlede_budgetudgifter
+Budgetudgifter 2014 (i 1.000 kr.),udgifter_14
+Budgetudgifter 2015 (i 1.000 kr.),udgifter_15
+Budgetudgifter 2016 (i 1.000 kr.),udgifter_16
+Budgetudgifter 2017 (i 1.000 kr.),udgifter_17
+Budgetudgifter 2018 (i 1.000 kr.),udgifter_18
+Fysisk igangsat,fysisk_igangsat
+Forventet ibrugtagningstidspunkt,dato_for_ibrugtagning
+Projekt nr.,projketnr
+Arrangement start,arr_start
+Arrangement slut,arr_slut
+Ansøgersnavn,ansoeger_navn
+Ansøgers kontaktperson,ansoeger_kontaktpers
+Ansøgers telefon,ansoeger_kontakttele
+Arrangement beskrivelse,arrangement_beskrivelse
+Bemærkning til sted,bemaerkning_til_sted
+Oprettet,Oprettet
+Opsætning start,opsaetning_start
+Nedtagning slut,nedtagning_slut
+Ansøgers kontaktinfo,ansoeger_kontaktinfo
+Reservationstatus,reservationstatus
+Forventet deltagerantal,forventet_deltagerantal
+Materiale/udstyr,materiale_udstyr
+Afspilning af lyd/musik,afspilning_af_lyd_musik_speak
+edoc sagsnummer,esdh_nummer
+Objekt,pladselement_note
+Kortelement,type
+Event type,event_type
+Elementtype,kat_2
+Distance,kat_4
+Tidsrum,tidsrum
+Sted,sted
+Klik her for mere info,plads_link
+Arrangement type,event_type
+Plads,plads
+Udtag 1,udtag_1
+Udtag 2,udtag_2
+Udtag 3,udtag_3
+Udtag 4,udtag_4
+Udtag 5,udtag_5
+Udtag 6,udtag_6
+Planperiode,objekt_type
+Udbygningstype,objekt_type
+Samlede budgetudgifter 2017-21 (i 1.000 kr.),samlede_budgetudgifter
+Budgetudgifter 2019 (i 1.000 kr.),udgifter_19
+Budgetudgifter 2020 (i 1.000 kr.),udgifter_20
+Budgetudgifter 2021 (i 1.000 kr.),udgifter_21
+Projekt type,projekt_type
+Projektnr.,projektid
+Læs mere om projektet på kk.dk,link
+Drift type,element
+Belægningstype,belaegningstype
+Drift tiltag,tiltagsnav
+Drift år,aar
+Vejside,side
+Fra,fra
+Til,til
+Vej_id,vej_id
+Udførelsesår,udfoerelsesaar
+Produkt type,produkt
+Lag tykkelse,tykkelse
+Ulagt år,udlagt
+Udlagt år,udlagt
+Drift status,status
+Udbudsnavn,udbudsnavn
+Beregningsår,beregningsaar
+Aktivitetsgruppe,aktivitetsgruppe_navn
+Gruppenummer,gruppenummer
+Typenummer,type_nummer
+Tiltagsnavn,tiltagsnavn
+Mængde,maengde
+Vejnr,vejnr
+Lane,lane
+Laneoffset,laneoffset
+From chainage,fromchainage
+To chainage,tochainage
+cmroadsid,cmroadsid
+roactivityid,roactivityid
+ID1,id1
+Matrikel nummer,matr_nr
+Ejerlav,ejerlavsnavn
+Ejerlavs kode,ejerl_kode
+Revisions dato,rev_dato
+Enhedens ejendoms nr,tostring(enheds_ejendomsnummer)
+Enhedens Ejerlejlighedsnr,ejerlejligheds_ejendomsnummer
+Opførsels år,tostring(opfoerelse_aar)
+Enheds anvendelse,enhanvendelse
+Enheds boligtype,boligtype
+Enheds udlejningsforhold,enhudlejningforhold
+Enheds samlet areal,enh_arl_saml
+"if IsDefined(shape_wkt) then GeometryType(shape_wkt) else 
+                ""GEOMETRY UNDEFINED"" endif",pcolid
+Ejendomsnummer,ejendomsnummer
+Bygningsnummer,bygningsnummer
+Antal beboelseslejligheder,AntalHustande
+Primær anvendelse,prim_anvendelse
+Tidligere administrator,tidl_admin
+Bruger,bruger
+Adressebeskrivelse,adresse
+Antal rum,antal_rum
+Udlejningsstatus,udlejet
+Kontakt - Georg Christiansen: tlf,'33431460'
+Klassifikation,Tek_Klassifikation
+Etableringsår,Etableringsaar
+Olietankkilde,olietankkilde
+Tanktype,TankType_Tekst
+Tankindhold,TankIndhold_Tekst
+Sidst renoveret,opf_renov_aar
+Supplerende tagkonstruktion,supp_tag_konst
+Bygningnummer,bygningsnummer
+Nedrivnings status,nedriv
+Evt. halvtag,halvtagtype
+Slettet,system_dato
+Bygning BBR,objekttype
+Fabrikat,fabrikat
+Stoerrelse,Stoerrelse
+Størrelsesklasse,Stoerrelsesklasse_Tekst
+Ombygningsår,ombyg_aar
+Sjøfning,Sloejfning_Tekst
+Sjøfningsdato,SloejfFristDato
+Nøjagtighed,nøjagtighed
+EjendomsNummer,EjendomsNummer
+TekniskAnlaegNummer,TekniskAnlaegNummer
+MatrikelNummer,MatrikelNummer
+MatrikelArt,MatrikelArt
+Effekt i KW,EffektKW
+Teknisk anlæg nummer,TekniskAnlaegNummer
+Matrikelnummer,MatrikelNummer
+Matrikelart.,MatrikelArt
+Landsejerlavkode,LandsejerlavKode
+Ejeren,navn
+Tilslutnings dato,tilslutnings_dato
+Kapacitet,kapacitet
+Rotor diameter: ø,rotor_diam
+Navhøjde,nav_hoejde
+Typebetgenelse,type
+Type af Placering,placering
+Netsleskabets Installations nr,install_nr
+Produktions tal for 2011 (kWh),prod_tal_2011
+Opstillingskreds nr,opstillingskredsnummer
+Afstemningsområde nr,afstemningsomraadenummer
+Bydel nr.,bydel_nr
+Bydelsnavn,bydelsnavn
+Rode nr,rode_nr
+Valgsted,valgsted
+E-mail,e_mail
+Institutionsnavn,instnavn
+Prakbetegn,prakbetegn
+Antal-pladser,vejside
+P-ordning,antal_pladser
+Restriktion,p_ordning
+P-type,restriktion
+Fax,telefon
+Områdenavn,navn
+Dagplejeområde Id,id
+Skolenavn,udd_distrikt_navn
+Tinglyst dato,tinglyst
+Stationsnavn,st_navn
+Kommune,kommune
+nr,mi_prinx
+Aktivitet,forpligtelsesaarsag
+Antal ejere,antal_ejere
+CO ejer,ejer_conavn
+Administrator,admin_navn
+CO Administrator,admin_conavn
+"if IsDefined(shape_wkt) then GeometryType(shape_wkt) else ""GEOMETRY UNDEFINED"" endif",pcolid
+Lokalitets Id,lokalitetsid
+Hovedaktivitet,hovedaktivitet
+Godkendelsesdato,godkendelsesdato
+Godkendelsestype,appr_type
+Spildevandstilladelse,spildevandstilladelse
+Tilsynsdato,udfoert_dato
+Plads kode,plads_kode
+Link til ansøgning om tilladelser,link
+Primær,primaer
+Kote,kote
+Projekt ID,projekt_id
+Delopland,delopland
+Skybrudsgren,skybrudsgr
+Dato,dato
+id,id
+Hovedopland,Hovedopland
+Hovedtype,hovedtype
+Deltype,deltype
+Tværsnit,tvaersnit
+Grøn drift,groen_drift
+Typologi,typelogi_p
+Reference,ref
+Dataansvarlig,data_ans
+Rensningsanlæg,rensningsanlaeg
+Skønnet butiksareal 2011,skon_buar
+Særlige bestemmelser,sb_tekst
+Ramme-id,omraade
+Yderligere oplysninger,dok_link
+Centertype,vaerdi1103
+Plannr,plannr
+Plannr.,plannr
+Maksimal bebyggelsesprocent,max_bebyggelse_pct
+Maks. bygningshøjde,maxbygnhjd
+"Friarealprocent, boliger",friareal_b
+"Friarealprocent, erhverv",friareal_e
+Parkeringsdækning,p_daekning
+Maks. etageareal (m2),v_maxetage
+Maks. længde (meter),v_maxlaeng
+Maks. højde (meter),v_maxhjd
+Yderligere bestemmelser,link_dok
+Retningslinje type,retningslinje_type
+Se tælling (PDF),link
+A Stemmetal,a_antal
+B Stemmetal,b_antal
+C Stemmetal,c_antal
+F Stemmetal,f_antal
+I Stemmetal,i_antal
+O Stemmetal,o_antal
+V Stemmetal,v_antal
+Ø Stemmetal,oe_antal
+Øvrige stemmetal,oevrige_antal
+Optalte stemmer,stemmer_ialt
+"Kommuneprocent 61,2 %",
+Prioritet,prioritet
+matrikelnr,matr_nr
+Udtrådt af forsyningen,udtraadt_af_forsyningen
+Tilladelse taget i brug,Tilladelse_taget_i_brug
+Vand,vand
+Tilladelse,tilladelse
+Status på opstilling,opstilling_status
+Temakode,Temakode
+Temanavn,Temanavn
+Offentlig,Offentlig
+CVR_kode,CVR_kode
+CVR_navn,CVR_navn
+Postadresse,postadresse
+Udbudsområde,udbudsomrnavn
+P-automat nr.,parkomat_id
+Under_element,under_element
+Træart,traeart
+Botanisk navn,traeart
+Plantet,plantet
+Størrelse ved plantning,stoerrelse
+Etape,etape
+Læs mere om mobilt gadesalg og søg om særlig tilladelse på kk.dk,Link
+KP ramme,kp_ramme_11
+Max bebyggelse (prc),max_bebyggelse_pct
+Max bygningshøjde,max_bygn_hoejde
+Friareal (prc),friareal_pct_erhverv
+P dækning,p_daekning
+Vis rammetype (Link),rammetype_link
+Renholdsordning,renholdsordning_basis
+Facademeterpris,facademeterpris
+Kvadratmeterpris,kvadratmeterpris
+Dispensation fra,dispensation_fra
+Dispensation til,dispensation_til
+Kvadratmeterpris (2018),kvadratmeterpris
+Facademeterpris (2018),facademeterpris
+Renholdsareal,afregnet_areal
+Renholdsfacadelængde,afregnet_facadelaengde
+Registreret dato,reg_dato
+Placeringsinfo,placeringsinfo
+Døgnsåbent,doegnaabent
+Helårsåbent,helaarsaabent
+Longitude,longitude
+Latitude,latitude
+"Kloaksystem, Status",kloaksystem_sta
+"Kloaksystem, Plan.",kloaksystem_pla
+Udløb,udloeb
+Udløb Plan,udloeb_pla
+"LAR vejvand, Status",lar_vejvand_sta
+"LAR vejvand, Plan",lar_vejvand_pla
+"LAR tagvand, Status",lar_vejvand_sta
+"LAR tagvand, plan",lar_vejvand_pla
+"LAR spildevand, Status",lar_spildevand_sta
+"LAR spildevand, plan",lar_spildevand_pla
+systemdato,system_dato
+Arealtype,OBJEKT_TYPE
+Rutenummer,rute_nr
+Licenszone,'
+Ophold gennemsnit kl. 10-18,ophold_gsn_10_18
+Element,element
+Yderligere beskrivelse,beskrivelse
+Model,model
+Ruteid,ruteid
+Id.,id
+Oprettet d.,oprettet
+Ændret d.,ændret
+Senest punkt placeringsdato,adressepunktændringsdato
+Kilde,kilde
+Teknisk Standard,tekniskstandard
+Tekst retning (GON),tekstretning
+Tekst retning (Grader),tekstretninggrader
+Systemdato,system_dato
+Kommunalt ejendomsnr (fra GST),TOSTRING(ESR_Ejendomsnummer)
+Fælleslod,TOSTRING(faelleslod)
+FeatureID,TOSTRING(featureID)
+KMS Journalnummer,TOSTRING(kms_Journalnummer)
+esr_Ejendomsnummer,esr_Ejendomsnummer
+kommunenavn,kommunenavn
+landsejerlavskode,landsejerlavskode
+matrikelnummer,matrikelnummer
+moderjordstykke,moderjordstykke
+registreretAreal,registreretAreal
+vejAreal,vejAreal
+registreringsdato,registreringsdato
+kms_Journalnummer,kms_Journalnummer
+regionskode,regionskode
+regionsnavn,regionsnavn
+retskredskode,retskredskode
+retskredsnavn,retskredsnavn
+sognekode,sognekode
+sognenavn,sognenavn
+Husleje,husleje
+Bevilling til kl.,nattilladelse
+Specificeret,nattilladelse_specificeret
+Værkstedstilbud,tilbud
+Medlemsskab,medlemsskab
+Telefon nummer,telfnr
+Enhedsnavn offentligt,enhedsnavn_offentligt
+Klynge ID,klynge_id
+Hedhedstype,helheder_tekst
+Risiko,risiko_text
+Merværdi,potentiale_tekst
+Risiko i 2010,risk_2010
+Risiko i 2060,risk_2060
+Risiko i 2110,risk_2110
+Samlet regnrisiko,risk_saml
+Skybrudsopland,opland
+Skybrudsdelopland,delopland
+TMF løbenr,tmf_loebnr
+Sagsbehandler/projektleder,sags_projleder
+Kontaktpersons email,kontakperson
+Ansvarlig center,ansvarlig_center
+Bevilling,bevilling
+Politisk beslutning (tidspunkt og dagsorden punkt),politisk_beslutning
+Kontraktlig forpligtet,kontraklig_forpligtet
+Rådigheds bevilling i alt,raadigheds_bevilling
+Frigivet Rådigheds bevilling,frigivet_raadigheds_bev
+Udgifter,udgifter
+Indtægter,indtaegter
+Afvigelse ml. rådighedsbevilling og udgifter,afvig_raadighed_udgifter
+Årsag til afvigelse (> +/- 1 mio.,aarsag_til_afvigelsen
+Anlægsstatus,anlaegsstatus
+Forsinkelse (måneder),forsinkelse
+Forklaring på forsinkelse (kun røde projekter),forklaring_forsinkelse
+Rækkefølgeplan,raekkefoel
+Investering KK,inv_kk
+Investering HOFOR,inv_hofor
+Drift KK,drif_kk
+Drift HOFOR,drif_hofor
+TMF-løbenr,tmf_loebenr
+Sagsbh/projektleder,sagsbh_projektleder
+Kontaktpers. email,kontaktspersons_email
+Politisk beslutning,politisk_beslutning
+Beslutningsår,beslutningsaar
+Rådighedsbevilling i alt,raadighedsbevilling_i_alt
+frigivet rådighedsbevilling,frigivet_raadighedsbevilling
+afvigelse bevilling udgifter,afvigelse_bevilling_udgifter
+1. opr.ibrugtagningstidsp.,forste_opr_ibrugtagning
+Måned,maaned_2
+Forventet ibrugtagningstidsp.,forventet_ibrugtagning
+Forsinkelse ift. opr. ibrugtagningstidsp.,forsink_ift_opr_ibrugtagning
+Forklaring_på forsinkelse,forklaring_paa_forsinkelse
+Karré nr.,karre_uden_rodenr
+Rode nr.,rode_nr
+Lokaludvalg navn,navn
+Lokaludvalg nr.,lokaludvalg_nr
+Rodenavn,rodenavn
+Funktion,funktion
+Emne,kategori
+Ibrugtagning,ibrugtagning
+Maks. etageareal,max_etage_areal
+Maks. bebyggelsesprocent,bebygpct
+BBR nummer,bbrnummer
+Bygningsid,bygningsid
+Driftsorganisation,driftsorganisation
+Dansk navn,dansk_navn
+Fredet / beskyttet træ,fredet_beskyttet_trae
+Historisk træ,trae_historie
+Botanisk interesse,botanisk_interesse
+Donor,donor
+Anledning,anledning
+Bemærkninger særligt træ,saerlig_trae_bem
+Lokation,lokation
+Bemanding,bemanding
+Betaling,betaling
+Rettet af,rettet_af_init
+Undernummer.,undernummer
+Asset nummer,asset_nummer
+Installations dato,installations_dato
+Lampearm,lampearms_data
+Armatur,armatur_data
+Lyskilde,lyskilde_data
+Watt,watt
+Yderlig information,yderlig_information
+Maste data,maste_data
+Nummer,nummer
+Lampearms data,lampearms_data
+Armatur data,armatur_data
+Lyskilde data,lyskilde_data
+Maste,maste_data
+wkt,shape_wkt
+Maksimalt etageantal,max_etageantal
+Plannavn,plannavn
+Ramme ID,omraade
+navn,''
+Læs om områdetypen '+ omraade_type,rammetype
+Centertype.,type
+Særlige forhold,saerlige_forhold
+KP19 ramme,kp19_ramme
+Særlige bemærkninger,sbemaerk
+Link til tillæg,link_till
+Kommuneplanstema,kp_tema
+Retningslinjenavn,ret_navn
+Objektnavn,obj_navn
+if obj_type ='Byomdannelsesområde' then 'Områdenavn:' else 'Delområde:' endif,delomraade
+Sikringsniveau,sikr_niv
+Rute nr,rute_nr
+Kommunenavn,kom_navn
+Knudenavn,knudenavn
+Type afløb,typeafloeb
+Type beskrivelse,type
+Transportkode,transport
+Rørbetegnelse,roerbetegnelse
+Kote opstrøm,bundloebskoteopst
+Kote nedstrøm,bundloebskotenedst
+Tilladelse til tilslutning,tilladtilslut
+Tændskabs nummer,taendskabs_nummer
+Udstyrbetegnelse,anvendtudstyrbetegnelse
+Udstyr id,udstyrid
+Original diameter,original_diameter
+Systemid,systemid
+Netværk,network
+Dimension,dimension
+Ledningsfunktion,lednfunktion
+Afløbskategori,kategoriafloeb
+Bygværk bemærkning,bygvaerk_bemaerkning
+Bygværknavn,bygvaerknavn
+Driftansvarlig,driftansvarlig
+Forventet dato,forventet_
+Forventet1 dato,forvente1
+Nominel dimension,nomineldim
+Ventilfunktion,ventilfunktion
+Egenartsanalyse,projekt
+Rumlighed almene m2,rumlighed_m2
+Restrumlighed almene m2,restrum_m2
+Byggefelt nr,delnr
+Delområde nr,delnr
+Forslag TMU,forslag_tmu
+Byplanenhed,cbp_enhed
+Vedtaget plandokument for: ' + plantype + ' ' + plannr + ' ' + plannavn,link
+plannavn + ' på blivhoert.kk.dk,blivhoert_id
+Startredegørelse for: ' + plannavn,startredegoerelse_link
+Aktivitets Type id,aktivitets_type_id
+Aktivitetsnavn,aktivitets_navn
+Aktivitet etableret,aktivitet_etableret
+Aktivitet lukket,aktivitet_lukket
+Aktivitetsbeskrivelse,aktivitetsbeskrivelse
+Lokalitetsnavn,lokalitetsnavn
+Godkendelsesmyndighed,godkendelsesmyndighed
+Tilsynsmyndighed,tilsynsmyndighed
+Grønt regnskab,groent_regnskab
+Aktiv/Inaktiv,aktivinaktiv
+Jordstykke Id,TOSTRING(jordst_id)
+Omfang,TOSTRING(omfang)
+Forureningstype,TOSTRING(forur_type)
+Ordningstype,type
+Antal boligenheder,boligenheder
+Antal erhvervsenheder,erhvervsenheder
+Dagrenovations materiel,materiel_dagrenovation
+Aftager,aftager
+Prøvestednavn,provestednavn
+Antal rør,antal_sager_roer
+BBR nr.,bbr_nr
+Gyldigt fra,valid_fra
+Gyldigt til,valid_til
+Varmekilde,varmekilde
+Baseret på,energi_label_type_baseret_paa
+Energimærkning Nr.,energi_label_serialnr
+Energi forbrugstype,energi_label_type_forbrug
+Program version,skema_version
+Selskabsnavn,selskabsnavn
+Selskabs konsulent,selskabs_konsulent
+Samlet bygnings areal,byg_arl_saml
+Kulturstyrelsens bygnings SAVE id,byg_save_id
+Samlet bolig/erhvervs areal,samlet_byg_areal
+Omregnet fra MWh til KWh/m2,forbrug_kwh_per_m2
+Forsyningsart,forsyningsart
+Entitets type,entitetstype
+Leverancested id,leverancestedid
+Opførsels / Ombygningsår,opf_renov_aar
+Varmeforbrug pr m2,sbi_energiforbrug
+Bygnings årstal,aarstal
+Anvendelse SBI,sbi_anvendelse
+Samlet opvarmet areal pr m2,samlet_opvarmet_areal
+Bygning BBR Ident.,byg_id
+Ejendomens Ejer,ejer_navn
+Ejendomens Administrator,admin_navn
+Frednings SAVE status,bevaringsvaerdi
+Fredet,fredet
+Ny adresse,ny_adresse
+Kubetype,kubetype
+Papirkurv,papirkurv
+Sorteringsvejledning,sorteringsvejl
+Afstand fra kantsten,afst_fra_kantsten
+Afstand fra vejkryds,afst_fra_vejkryds
+Spærreflade,spaerreflade
+Trafikregulering,trafikregulering
+Begrænset afhentningstid,begr_afhentningstid
+Krav til afhentning,krav_til_afhentning
+Billednummer,billednummer
+GPS dato,gps_date
+X-koordinat,x
+Y-koordinat,y
+Karre nr,id
+Værk,vaerk
+DGU nr.,dgu_nr
+dato for overtagelse,dato_overtagelse
+Tidligere ejer,tidligere_ejer
+Sags nr.,SAGSNR
+Kontakt telefonnr.,telefon
+Hovedprojekt navn,hovedprojekt_navn
+Hovedprojekt nr,hovedprojekt_nummer
+Projektstatus,projektfase
+Prøvestednr.,provestednr
+Lokal taphane,lokal_taphane
+Antal prøver pr. uge,antal_proever_pr_uge
+Anmeldt af,anmeldernavn
+Antal beboere,antal_befolkning
+Antal enheder,enheder
+"Døgnværdien i 1,5m",fnm_1_5m_l
+Døgnværdien i 4m,fnm_4m_lde
+Indvindingstype,indvindingstype
+Områdemester,omraade_mester
+Lokalnummer,lokalnr
+"Antal enheder 1,5m",antal_etage_1
+"Gennemsnit af døgnværdi 1,5m",gennemsnit_lden_etage_1
+Antal enheder 4m,antal_etage_2
+Gennemsnit af døgnværdi 4m,gennemsnit_lden_etage_2
+Bygnings FOT_id,fot_id
+Retning,retning
+Etage niveau,floor
+Antal boliger mellem 40 og 59  m2,bolig_antal_40_59_m2
+Antal boliger,antal_boliger
+Antal boliger mellem 100 og 119 m2 :*,bolig_antal_100_119_m2
+Antal boliger mellem 60 og 79 m2,bolig_antal_60_79_m2
+Antal boliger mellem 80 og 99 m2,bolig_antal_80_99_m2
+Antal boliger under 40 m2,bolig_antal_u_40_m2
+Område nr.,omraade_nr
+Dansk artsnavn,artsnavn_dansk
+Antal individer,antal_individer
+Lokalitet type,lokalitet_type
+Lokalitet beskrivelse,Lokalitet_beskrivelse
+Observationsår,observation_aar
+Observation mnd/dato,observation_mnd
+Datakilde,datakilde
+Ældre kilder,aeldre_kilder
+Latinsk artsnavn,artsnavn_latin
+Bemærkninger.,lokalitet_bemaerkning
+Max antal,max_antal
+Obs ynglende,obs_ynglende
+Rødliste,roedliste
+EU habitatsdirektiv,eu_habitatdirektiv
+EFfuglebeskyt. dir.,ef_fuglebesk_direktiv
+Ansvar,ansvar
+Bevaringsstatus,bevaringsstatus
+Observationer,observationer
+Dato bem.,dato_bem
+GISID,gisid
+Aggregering_lok,aggregering_lok
+Datakilde ID,datakildeid
+Punkt flade,punkt_flade
+KK lokalitetsnavn,kk_lokalitetsnavn
+Lokalitetsnavn 2,lokalitetsnavn2
+Antal arter,antal_arter
+Rødlistet forekomst,roedliste_forekomst
+EU habitatsdirektiv forekomst,eu_habitatdir_forekomst
+EF fuglebeskyt.dir. forekomst,ef_fugleb_dir_forekomst
+KK prioriteret forekomst,kk_prioriteret_forekomst
+Fredet forekomst,fredet_forekomst
+Arbejdssted,arbejdssted_navn
+Udviklingsmål,udviklingsmaal
+Periode,periode
+Udført,udfoert
+Kronelag nuværende dominans,kronelag_nuv_dom
+Kronelag fremtidig dominans,kronelag_fremt_dom
+Mellemlag nuværende dominans,mellemlag_nuv_dom
+Mellemlag fremtidig dominans,mellemlag_fremt_dom
+Busklag nuværende dominans,busklag_nuv_dom
+Busklag fremtidig dominans,busklag_fremt_dom
+Udviklingstiltag 1,udviklingstiltag_1
+Fokusart 1,fokus_art_1
+Udviklingstiltag 2,udviklingstiltag_2
+Fokusart 2,fokus_art_2
+Plantet halvaar,plantet_halvaar
+Garantiperioden udløber,garantiperioden_udloeber
+Træ-id,id
+Plantemetode,plantemetode
+Iræ-id,id
+vejkode,vejkode
+Samlet vejlængde,samlet_laengde
+Antal nuværende træer,antal_traeer
+Antal træer ved 15m vej pr. træ,antal_traeer_15m
+Potentiale ud fra eksist. træer,potentiale_nye_traeer
+Antal udpegede pot. træer,antal_pot_traeer
+Potentiale inkl. udpegede pot. træer,potentiale_inkl_pot_traeer
+Projekt_navn,pr_navn
+Ejerforhld,ejer_forh
+Rækkefølge,raekkefoel
+Antal potentielle vejtræer,c_vejtraer
+Antal potentielle parktræer,c_parktrae
+Typelogi_p,typelogi_p
+Q_value m3,qvalue_m3
+Benævnelse i lokalplanen,benaevnelse_i_lokalplan
+Lokalplan nr.,lokalplan_nr
+Centernavn,center
+Enhedschef,enhedschef
+Enhedschef tlf.,enhedschef_tlf
+Driftskoordinator,driftskoordinator
+Driftskoordinator tlf.,driftskoordinator_tlf
+Byrumsforvalter 1,byrumsforvalter
+Byrumsforvalter 1 tlf.,byrumsforvalter_tlf
+Byrumsforvalter 2,byrumsforvalter_2
+Byrumsforvalter 2 tlf.,byrumsforvalter_2_tlf
+"Flagermus, art",flagermus_art
+"Flagermus, adfærd",flagermus_adfaerd
+"Flagermus, obs til reg.",flagermus_obs_til_reg
+"Flagermus, reg.år",flagermus_reg_aar
+Driftsaftale eDoc-nr,driftsaftale_edoc_nr
+Andre vækstforhold,andre_vaekstforhold
+Fredning eDoc-nr.,fredning_edoc_nr
+r_tidsstempel,r_tidsstempel
+Foto 1,r_img01
+Foto 2,r_img02
+Foto 3,r_img03
+Foto 4,r_img04
+Foto 5,r_img05
+Foto 6,r_img06
+Foto 7,r_img07
+Foto 8,r_img08
+Foto 9,r_img09
+Foto 10,r_img10
+Foto 11,r_img11
+Foto 12,r_img12
+Foto 13,r_img13
+Foto 14,r_img14
+Foto 15,r_img15
+Plantehalvår,plantet_halvaar
+garantiperioden udløber,garantiperioden_udloeber
+Antal bede,antal_bede
+Omgivelser,r_omgivelser
+Primær tagkonstruktion,tagkonstruktion
+Sekundær tagkonstruktion,supp_tag_konst
+Bygnings anvendelse,anvendelse
+potentiel grøn forbindelse,pgroen_fb
+antal potentielle vejtræer,c_vejtrae
+antal potentielle parktræer,c_parktrae
+Grøn forbindelse,groen_fb
+adresse,adresse
+"begrundelse 1, myndigt træ",begr_1_myndigt
+"begrundelse 2, lokalt",begr_2_lokalt
+"begrundelse 3, arkitektonisk",begr_3_arkitektonisk
+"begrundelse 4, biologisk",begr_4_biologisk
+"begrundelse 5, mikroklima",begr_5_mikroklima
+"begrundelse 6, sanselig",begr_6_sanselig
+"begrundelse 7, historisk",begr_7_historisk
+foto,billed_url
+kategori,kategori
+Forslag,forslag
+Antal,antal
+Kriterie,kriterie
+Privat eje,privat_eje
+Billed Id,billed_id
+Plejehandling,aktion
+Densitet,densitet_tekst
+Vegetation,vegetation
+Kirkegårdsnr,kirkegaard_nr
+Afdelingsnr,afdeling_nr
+Afdelingsnavn,afd_navn
+Initialer,initialer
+Række nr,raekke_nr
+Gravsted nr,gravsted_nr
+Gravstedsnøgle,gravstedsnoegle
+Gravstedstype,gravsted_type
+I brug,i_brug
+Oprindelse,oprindelse
+Oprindelsesdato,oprindelses_dato
+Pleje,pleje
+Plejetidspunkt,plejetidspunkt
+Objekt_type,objekt_type
+Enhedsområde,enhedsomraade
+Ønske til træer,oenske_til_traer
+Plantes i belægning,plantes_i_belaegning
+Plantes i jord,plantes_i_jord
+Budgetønske,budgetoenske
+Financieret,financieret
+Parktype,parktype
+Parknummer,parknummer
+"Fredning, bygninger",fredning_bygning
+"Fredning, fortidsminder",fredning_fortid
+Udviklingsplan,udviklingsplan
+Udviklingsplan år,udviklingsaar
+Besøgstal,besoegstal
+Brugerundersøgelse,brugerunder
+Oplandsanalyse 300m,opland_300
+Oplandsanalyse 875m,opland_875
+Link til uderligere information,link
+Areal_id,areal_id
+Park_id,park_id
+Key_field,key_field_arealer
+eDoc-link,edoc_link
+Dokument-link,dokument_link
+Størrelse,stoerrelse
+Lokalitet/Vejnavn,vejnavn
+Park,navn
+Antal Parktræer,antal_parktrae
+if ((length(fredet_beskyttet_trae) > 0 and fredet_beskyttet_trae != 'Ikke registreret') or saerligt_trae ='ja') then 'Historien bag:' else 'Bemærkninger:' endif,bemaerkning
+Om fredningen,saerlig_trae_bem
+Link til foto af træet,fredet_trae_foto
+Tidsstempel,r_tidsstempel
+Registreret af,r_registrant
+Risikofaktor,r_risikofaktor
+Ændringer i rodzonen,r_aendringer_rodzone_andet
+Gravearbejde i rodzonen,r_gravearbejde_i_rodzonen
+Graveansvarlig,r_graveansvarlig
+Terrænændring,r_terraenaendring
+Terrænændring dato,r_terraenaendring_dato
+Belægningsændring rodzonen,r_belaegningsaendring_rodzonen
+Belægningsændring rodzonen dato,r_belaegningsaendring_dato
+Beplantningsændring,r_beplantningsaendring
+Ændring i græspleje,r_aendring_i_graespleje
+Ændring i græspleje dato,r_aendring_i_graespleje_dato
+Grundvandsændring,r_grundvandsaendring
+Grundvandsændring dato,r_grundvandsaendring_dato
+Sygdomme skadedyr,r_sygdomme_skadedyr_andet
+Sygdomme,r_sygdomme
+Skadedyr,r_skadedyr
+Stammestruktur,r_stammestruktur_andet
+Tvege,r_tvege
+Flerstammet,r_flerstammet
+Hældning,r_haeldning
+Kronestruktur,r_kronestruktur_andet
+Ensidig,r_ensidig
+Spidse grenvinkler,r_spidse_grenvinkler
+Lange tunge grene,r_lange_tunge_grene
+Stammeagtige sidegrene,r_stammeagtige_sidegrene
+Svag grensammenhæftning,r_svag_grensammenhaeftning
+Kronen,r_kronen_andet
+Unormal bladstørrelse,r_unormal_bladstoerrelse
+Tidligt bladtab / høstfarver,r_tidligt_bladtab_hoestfarver
+Grene med mange sår,r_grene_mange_saar
+"Sår kritiske steder, krone",r_saar_kritiske_steder_krone
+"Dårlig sårheling, krone",r_daarlig_saarheling_krone
+"Døde grene, brækket/revne",r_doede_grene_braekket_revne
+Revner i grene,r_revner_i_grene
+Mængden af døde grene,r_maengden_af_doede_grene
+Størrelse på defekte grene,r_stoerrelse_defekte_grene
+Toptørhed,r_toptoerhed
+Tyndløvet,r_tyndloevet
+Beskæring,r_beskaering
+Dødt træ stående,r_doedt_trae_staaende
+Stammen,r_stammen_andet
+Død bark,r_doed_bark
+Unormal bark,r_unormal_bark
+Slimflåd,r_slimflaad
+Indsunken bark,r_indsunken_bark
+Indvokset bark,r_indvokset_bark
+Store gamle sår,r_store_gamle_saar
+Mange sår på stammen,r_mange_saar_paa_stammen
+"Sår på kritiske steder, stamme",r_saar_kritiske_steder_stamme
+"Dårlig sårheling, stamme",r_daarlig_saarheling_stamme
+Revner,r_revner
+Defekter,r_defekter
+"Stammeråd/hulhed, åben skal",r_stammeraad_hulhed_aaben
+"Stammeråd/hulhed, lukket skal",r_stammeraad_hulhed_lukket
+Rodzonen,r_rodzonen_andet
+Overfladisk rodnet,r_overfladisk_rodnet
+Omvoksende rødder,r_omvoksende_roedder
+Rodskader,r_rodskader
+Rodkageløsning,r_rodkageloesning
+Svamp,r_svamp
+Honningsvamp,r_honningsvamp
+Krumskællet skælhat,r_krumskaellet_skaelhat
+Kulsvamp,r_kulsvamp
+Kæmpe poresvamp,r_kaempe_poresvamp
+Lakporesvamp,r_lakporesvamp
+Skællet_stilkporesvamp,r_skaellet_stilkporesvamp
+Svovlporesvamp,r_svovlporesvamp
+Tøndersvamp,r_toendersvamp
+Østershat,r_oestershat
+Fløjlsfod,r_floejlsfod
+Lædersvamp,r_laedersvamp
+Ukendt svamp,r_ukendt_svamp
+Ukendt svamp beskrivelse,r_ukendt_svamp_beskrivelse
+Tilsynsaarsag andet,r_tilsynsaarsag_andet
+Tilsynsårsag kronesymptomer,r_kronesymptomer
+Tilsynsårsag struktur,r_struktur
+Tilsynsårsag svamp,r_svamp
+Tilsynsårsag skade på rødder,r_skade_paa_roedder
+Rådmåling,r_raadmaaling_andet
+Rådmåling dato,
+Næste rådmåling år,
+Undersøgelse med lift,r_undersoegelse_lift_andet
+Undersøgelse med lift dato,r_undersoegelse_lift_dato
+Handling,handling
+"Handling, beskrivelse",r_handling_andet
+Tid for handling,r_tid_for_handling
+Tilsynsfrekvens,r_tilsynsfrekvens
+Næste tilsyn halvår,r_naeste_tilsyn_halvaar
+Skader,r_skader_andet
+Materiel,r_materiel
+Person,r_person
+Link til edoc-sag,r_link_til_edoc_sag
+Generelt for beplantning,r_generelt_beplantning_andet
+Handling for beplantning,r_handling_for_beplantning
+Driftsområde,omraade
+Træ ID,id
+Flagermusetræ,er_flagermusetrae
+Omkreds,torso_omkreds
+Torso eller stynet træ,torso_stamme
+Sidst stynet,torso_sidst_stynet
+Frekvens for styning,torso_frekvens_styning
+Næste styning,torso_naeste_styning
+Træ skæres ned til,torso_skaeres_ned_til
+Fældningsår,faeldningsaar
+Brugerident,val02
+Enhed,kontaktperson
+budgetår,val06
+Reg. dato,reg_dato
+Lokaludvalg,lokaludvalg
+bemærkning til begrundelser,bemaerk_begrundelser
+Træ historie,trae_historie
+Slægtsnavn,slaegtsnavn
+Driftscenter,omraade
+Fritrumsprofil,fritrumsprofil
+Afgrænsning,afgraensning
+Omgivelse,omgivelse
+Vækstmedie,vaekstmedie
+Fredningsmyndighed,fredningsmyndighed
+if ((length(fredet_beskyttet_trae) > 0 and fredet_beskyttet_trae != 'Ikke registreret') or saerligt_trae='ja' )then 'Historien bag:' else 'Bemærkninger:' endif,bemaerkning
+Stammeomfang,stammeomfang
+Kronediameter,kronediameter
+Beskyttelse,beskyttelse
+Sundhed,sundhed
+Skudtilvaekst,skudtilvaekst
+Registrering_type,registrering_type
+Driftstatus gadetrae,driftstatus_gadetrae
+Tilsynsaarsag,r_tilsynsaarsag_andet
+Kronesymptomer,r_kronesymptomer
+Struktur,r_struktur
+Skade på rødder,r_skade_paa_roedder
+Projektstart,fk_proj_start
+Afslutningsdato,fk_proj_slut
+Overordnet startstidspunkt,fk_oo_start
+Overordnet sluttidspunkt,fk_oo_slut
+Bygherre,fk_bygherre
+Linjeføring,linjefring
+Forventet ibrugtagning,dato_for_ibrugtagning
+Korridor,navn
+Fra kryds,frakryds
+Til kryds,tilkryds
+Prioritering,prioritering
+Læs mere om projektet her,link
+CUA Projektnavn,projektid
+CUA Projektnr,beskrivelse
+CUA Projekt beskrivelse,beskrivelse
+******TRAFIK******,fk_projektnavn
+******BYRUMSPROJEKTER******,projektnavn
+JCD nr,jcdnr
+Familie,familie
+Subfamilie,subfamilie
+Rapporteringsenhed,rapporteringsenhed
+Antal reklameflader,samlet_ant_infoflader
+Antal kommunal info-flade,analoge_kommunalflader
+Reklamezone,reklamezone
+Farve,kurv_farve
+Låg,kurv_laag
+Pantholder,kurv_pantholder
+Tilstand,stativ_tilstand
+Tømningsrute basis,tomn_rute_basis
+Tømningsrute weekend,tomn_rute_weekend
+Tømningsrute middag,tomn_rute_middag
+Tømningsrute eftermiddag,tomn_rute_efterm
+Tømningsfrekvens,tomningsfrekvens
+Reg. metode,reg_metode
+Kundeforholdnr.,kundeforholdnr
+Kundeforholdsnavn,Kundeforholdsnavn
+Kundeforholdstype,kundeforholdstype
+Gårdoptimering gennemført,gaardoptimering_gennemfoert
+Specielle forhold,specielle_forhold
+Standpladsnr.,standpladsnr
+Materiel.,materiel
+Affaldsfraktion,affaldsfraktion
+Affaldsordning,Affaldsordning
+Opstilletdato,opstilletdato
+Fraktion,fraktion
+Affaldsordning.,Affaldsordning
+Rute.,rute
+Tømninger pr.år,toemninger_pr_aar
+Låsetype,laasetype
+Hjælpemidler.,hjaelpemidler
+Dispensationer,dispensationer
+Standpladsforhold,standpladsforhold
+Udformning,stativ_udformning
+Cykler retning,cykler_retning
+Overflade,pullert_overflade
+Montage,pullert_montage
+Driftsbydel,navn
+Bydel nr,bydel_nr
+matrikelnr.,matrnr
+ejerlav,ejerlav
+vejnavn,vejnavn
+ejendomsnr,ejendomsnr
+renholdsordning,renholdsordning_basis
+geometrisk længde,geometrisk_laengde
+afregnet facadelængde,afregnet_facadelaengde
+afvigelsesårsag,afvigelsesaarsag
+bidragskode,bidragskode
+facademeterpris,facademeterpris
+afgift 2018,afgift_2018
+vej,vejnavn
+husnr,husnr
+afregnet længde,afregnet_facadelaengde
+manuel beregning,manuel_beregning
+manuelt beregnet pris,manuelt_beregnet_pris
+bemærkning,bemaerkning
+ejer,ejer_navn
+ejer adresse,ejer_adresse
+ejer c/o navn,ejer_conavn
+ejer udv. adresse,ejer_udvidede_adresse
+ejer postdistrikt,ejer_postdistrikt
+administratorkode,administratorkode
+administrator navn,admin_navn
+administrator adresse,admin_adresse
+administrator c/o navn,admin_conavn
+administrator udv. adresse,admin_udv_adresse
+administrator postdistrikt,admin_postdistrikt
+rettet dato,rettet_dato
+rettet af init,rettet_af_init
+renholdsordn. 2019 dispensation indregnet,renholdsordning_disp_2019
+geometrisk areal,geometrisk_areal
+afregnet areal,afregnet_areal
+kvadratmeterpris 2019,kvadratmeterpris
+afgift 2019,afgift_2019
+med i renholdsordning fra,renhold_fra_aar
+bemaerkning,bemaerkning
+renholdsordn. 2017 dispensation indregnet,renholdsordning_disp_2017
+renholdsordn. 2018 dispensation indregnet,renholdsordning_disp_2019
+renholdsordn. 2020 dispensation indregnet,renholdsordning_disp_2020
+renholdsordn. 2021 dispensation indregnet,renholdsordning_disp_2021
+Driftes af,driftes_af
+Fakturering,fakturering
+BBRnr,bbr_nr
+Udbudstatus,udbud_status
+Hotspot nr,hotspot_nr
+Elementer,elementer
+Udbud_status,udbud_status
+Underelement,under_element
+Hovedtavle 1,hovedtavle_1
+Hovedtavle billede,h1
+Undertavle 1,undertavle_1_1
+Undertavle billede,u11
+Sagsnr.,sagsnr
+Ejendomsselskab,ejendomsselskab
+Ejerlavsnavn.,elavsnavn
+Green team-navn.,green_team_navn
+ogc_fid,ogc_fid
+Eksisterer,eksisterer
+Er problematisk,er_problematisk
+Tjekket,tjekket
+Læskærm type,laeskaerm_type
+AFA nr,afa_nr
+AFA udstyrstype,afa_udstyrstype
+Antal dobbelte infostandere,ant_dob_infostander
+Antal infoflader dob. infostandere,ant_infoflader_dob_infostander
+Antal analoge Mupi,ant_analog_mupi
+Antal infoflader analog Mupi,ant_infoflader_analog_mupi
+Antal digital reklamestander,ant_digital_mupi
+Antal infoflader digital rekl.,ant_infoflader_digital_mupi
+Antal reklametoiletter,ant_reklametoilet
+Antal infoflader reklametoilet,ant_infoflader_reklametoilet
+Antal læskærme,ant_infoflader_laeskaerm
+Vinkelret på køreretning,vinkelret_koer_retn
+Stopnavn,stopnavn
+Stopgruppe,stopgruppe
+Påstigere,paastigere
+Afstigere,afstigere
+POMS,poms
+Passagerbe,passagerbe
+Planlagte t,planlagtet
+Målte ture,maalteture
+Planlagt op,planlagtop
+StopNr.,stopnr
+ObjectId.,objectid
+Team,navn
+Teamkategori,kategori
+Vejplads,vejplads
+Område nr,omraade
+Center,enhed
+Toilettype,toilet_type
+Design,design
+Rengøringsansvarlig enhed,rengoeringsansvarlig_enhed
+Antal rengøringer pr. dag,rengoeringsfrekvens
+Alarm,alarm
+Graffitiafrensningsfrekvens,graffiti_afrensningsfrekvens
+Aftenlåsning,aftenlaasning
+Renholdstype,renhold_type
+lp navn,lp_navn
+Antal P-pladser,antal_p_pl
+Belasningszone,zone
+Servitut,servitut_type
+Servitut paragraf,servitut_paragraf
+Belasning i kpa,belasning_i_kpa
+Belasning i kg pr. m2,belasning_pr_m2
+BygID BBR,byg_id_bbr
+kommentar,kommentar
+created,created
+Primære boligtype,primboligtype
+Kommunegennemsnittet,pct_bilejer_kom_snit_over_18
+Pct. point afv. fra Kommunegennemsnittet,pct_afv_fra_kommune_snit
+Distriktnummer,udd_distrikt_nr
+Distriktnavn,udd_distrikt_navn
+Indikator ikke-vestlig herkomst,indikator_herkomst_ikke_vest
+Indikator lav uddannelse,indikator_ingen_udd
+Indikator lav indkomst,indikator_lav_indkomst
+Indikator udenfor arbejdsmarkedet,indikator_uf_arbejdsstyrken
+Befolkningsindikator i alt,befolkning_indikator
+Indikator bolig install. mangler,indikator_mangler
+Indikator bolig under 60m2,indikator_boliger_u_60m2
+Indikator gns. boligareal,indikator_gns_boligareal
+Boligindikator i alt,bolig_indikator
+Antal enlige med børn,antal_enlige_m_born
+Procent enlige med børn,pct_enlige_m_born
+Procent afvigelse fra kommune gns.,pct_afv_fra_kommune_snit
+Afv. fra Kommunegennemsnittet,pct_afv_fra_kommune_snit
+A antal stemmer,a_antal
+B antal stemmer,b_antal
+C antal stemmer,c_antal
+F antal stemmer,f_antal
+I antal stemmer,i_antal
+O antal stemmer,o_antal
+V antal stemmer,v_antal
+Ø antal stemmer,oe_antal
+Øvrige antal,oevrige_antal
+Stemmer i alt,stemmer_ialt
+Rode_nr,rode_nr
+Afstemningsområde,'afstemningsomraade
+rodenavn,rodenavn
+bydel,bydel
+rode_nr,rode_nr
+distrikt_nr,distrikt_nr
+antal_0_5,antal_0_5
+pct_0_5,pct_0_5
+antal_6_17,antal_6_17
+pct_6_17,pct_6_17
+antal_18_29,antal_18_29
+pct_18_29,pct_18_29
+antal_30_39,antal_30_39
+pct_30_39,pct_30_39
+antal_40_49,antal_40_49
+pct_40_49,pct_40_49
+antal_50_64,antal_50_64
+pct_50_64,pct_50_64
+antal_over_65,antal_over_65
+Pct. point afv. fra kommune gennemsnitet,pct_afv_fra_kommune_snit
+Distrikt_nr,distrikt_nr
+Distrikt_navn,distrikt_navn
+Indikator,indikator
+Tryghedskategorier,tryghedsbehov_2012
+Tryghed,tryghed
+Tryghedskategorie,tryghed
+Navn test,institutionsnavn
+Samarbejdspartnere,samarb
+Henvendelse,henvendelse
+Brugere,brugere
+Gruppe,gruppe
+Samarbejde,samarb
+Sagsbehandler,sagsbeh
+Opfølgningsdato,opflg_dato
+Celle ID,cell_key
+Lokalområde,lokalomraade
+KKorg nummer,kkorgnr
+"NB! Datasættet er ufuldstændigt, da der ikke er angivet korrekte adresser i KKorg!",'http://kkorgoversigt/'
+Link til plejecenterets hjemmeside,www
+Link til stressklinikkens hjemmeside,www
+Link til sundhedshusets hjemmeside,www
+Motionsform,kategorinavn
+Målgruppe,koen
+- Køn,aldersgruppe
+- Aldersgruppe,saerlig_maalgruppe
+- Særlig målgruppe,arrangoer
+Arrangør,adresse
+Vejmidtetype,vejmidtetype
+"Antal 0 årige, 2017",ant_0_aar_2017
+"Antal 0 årige, 2018",ant_0_aar_2018
+"Antal 0 årige, 2019",ant_0_aar_2019
+Stativ type,stativ_type
+Arbejds-/mobiltlf.nr.,mobil_arb_nr
+Antal køretøjer kl.7-19,ktj_7_19
+Antal cykler kl.7-19,cykler_7_19
+Fodgænger kl. 7-19,fod_7_19
+Fodgænger gennemsnit kl. 10-18,fod_gns_10_18
+Linje,linje
+Ny linje,ny_linje
+Linjer,linjer
+Betjening,betjening
+projekt år,prj_aar
+Link til skråparkeringsprojekter,tegning
+Vis tællerapport for område '+omraade,link
+Optælling '+mdr_aar,link
+Udført år,projekttype
+Opgaven,udfoert
+Antal lovlige P-pladser kl.12,straekning
+Antal parkerede biler kl.12,lovlig_p_kl_12
+Belægningsprocent kl.12,parkerede_biler_kl_12
+Antal lovlige P-pladser kl.17,straekning
+Antal parkerede biler kl.17,lovlig_p_kl_17
+Belægningsprocent kl.17,parkerede_biler_kl_17
+Antal lovlige P-pladser kl.22,straekning
+Antal parkerede biler kl.22,lovlig_p_kl_22
+Belægningsprocent kl.22,parkerede_biler_kl_22
+Zone navn,zone_navn
+Antal beboere over 18 år,antal_befolkning_over_18
+Antal biler,antal_biler
+Max kapacitet,maxkapacit
+Kontaktoplysninger,kontaktopl
+Regels t.,regels_t
+Rutenumer,rute_nr
+PlusNet,plusnet
+Grøn cykelrute,groen_cykelrute_navn
+Supercykelsti,supercykelsti_navn
+Byrumstype,byrumstype
+Metro,metro
+Sum af pladser,sumpladser
+sumcykelpa,sumcykelpa
+sumcykelud,sumcykelud
+sumladcykl,sumladcykl
+sumcykel_s,sumcykel_s
+sum_m_l,sum_m_l
+sumcyk_dif,sumcyk_dif
+areal,areal
+sum_100m2,sum_100m2
+CVF nr.,cvf_nr
+Fra vejnavn,fra_vejnav
+Til vejnavn,til_vejnav
+Rute type,rute_type
+Rutedel_status,rutedel_status
+Vejid,vejid
+Highway,highway
+Cycleway,cycleway
+Cycleway_l,cycleway_l
+Cycleway_r,cycleway_r
+Surface,surface
+Rute ID,ruteid
+Rute kategori,rute_kategori
+Rute_status,rute_status
+Stativpladser,pladser
+Cykler i stativ,cykelpaapl
+Cykler uden for stativ,cykeludenf
+Ladcykler,ladcykler
+Cykler sum,cykel_sum
+Cykler sum inkl. ladcykler,sum_m_lad
+Cykler differens,cyk_diff
+Belægningsprocent,belaegningspct
+Registreret,oprettet
+Vedligeholdelsespligt,vedligeholdelsespligt
+Edoc,edoc
+Kaj nr.,kajnr
+Konstruktion,konstruktionstype
+Vedligehold,vedlh_af
+Vedligehold regning,vedlh_regn
+Vej nr.,vej_nr
+Anvendtudstyrbetegnelse nr.,anvendtudstyrbetegnelse
+Lampe type,lampstyle
+Anlægs id,anlaegid
+Ag nr.,ag_nr
+Signal gruppe,gruppe_nr
+Dato for tilladelse,opret_dato
+Linjenavn,directionn
+Linjevariant,linevar
+Antal retninger,directionc
+Første stoppested,firststop
+Sidste stoppested,laststop
+Ibrugtaget år,ibrug_aar
+Kvarter,kvarter
+Ejendom,ejendom
+Matr nr,matr_nr
+Div. oplysninger,div_oplysn
+Antal p-pladser,antal_pladser
+Alment boligselskab,alment_boligselsk
+Tinglyst antal,tinglyst_antal
+Verserende,verserende
+Se Deklaration (PDF),link
+Bekrivelse,beskrivels
+Transportform,transportform
+Endepunkt A,endepunkt_a
+Endepunkt B,endepunkt_b
+Busruter,busruter
+Link til skolevejsprojekt,skolevejsproj_link
+Begge retninger,begge_retninger
+Stoppested,stopnavn
+Ændringer,aendringer
+Stop ID,stopid
+Niveau,f20_note01
+Pct. afv. fra Kommunegennemsnittet,pct_afv_fra_kommune_snit
+Tælletype,type
+Gns.pr.time kl.10-18,gns_pr_time_10_18
+År mdr,aar_mdr
+Tællested_nr,t_nr
+Takst,takst
+Link til takst på hjemmesiden,link
+Rute,rute
+Dræbt,draebt
+Alvorligt tilskadekommende,uh_uhid_uhantalvtils
+Let tilskadekommende,uh_uhid_uhantlettils
+Transportmiddel 1,transport1
+Transportmiddel 2,transport2
+Transportmiddel 3,transport3
+Blødeste trafikant,bloedeste_trafikant
+Antal uheld,numpoints
+Uhelds ID,uhelds_id
+Antal dræbte,antal_draebte
+Uhelds art,uheldsart
+Vægtbegrænsning,vaegtbegraensning
+Vejkode_id,vejnr
+Fra station i m.,fra_station
+Til station i m.,til_station
+Skiltekode,skilte_kode
+Tekst i hovedtavle,TEKST_I_HOVEDTAVLE_1
+Tekst i undertavle 1,TEKST_I_UNDERTAVLER_1
+Tekst i undertavle 2,TEKST_I_UNDERTAVLER_2
+"if length(trim(h1_bagside))>0 then '<a target=""_blank"" href=""'+h1_bagside+'"">
+			<img src=""'+h1_bagside+'"" alt=""thumb"" style=""border:none;""/></a>' 
+			else 'Intet billede' endif",'Hovedtavle_bagside'
+Tekst i hovedtavle 2,TEKST_I_HOVEDTAVLE_2
+Se foto hyperlink,FOTO_ID
+Fodgængere kl. 7-19,fod_7_19
+ÅDT Fodgængere,aadt_fod_7_24
+HVDT Fodgængere,hvdt_fod_7_24
+Fodgængere kl. 7-21,fod_7_21
+Fodgængere kl. 7-24,fod_7_24
+Løbere kl. 7-19,loeb_7_19
+VejID,vej_id
+Til stationering,til_st
+Anlæg type,anlaeg_type
+Styreapp.type,styreapp_type
+Spolestation_type,spolestation_type
+Tællested_type,taellested_type
+T-nr,t_nr
+husnummer,husnummer
+Alder,alder
+Udfordring,udfordring
+Barriere,barriere_tekst
+Uheldsart,uheldsart
+Situation,uheldssituation
+Færdselselement 1,elementar1
+Færdselselement 2,elementar2
+Færdselselement 3,elementar3
+Alvorligpersonskader,antal_alvorligpersonskader
+Letterepersonskade,antal_letterepersonskader
+Dræbte,antal_draebte
+Tilskadekomne,antal_tilskadekomne
+Uskadte,antal_uskadte
+bløde trafikater,uh_antal_bloede
+Kryds_id,kryds_id
+Uhelds_id,uh_id
+Undersøgelsestype,type
+Temaer,'Byliv'
+Må offentliggøres,center
+Dato for udførelse,link
+Link til undersøgelsen,kommentarer
+Rodenr.,rode_nr
+DKBW Nr.,dkbw_id
+Myndighed 1,myndighed1
+Myndighed 2,myndighed2
+Søtype,soetype
+Vandløbstype,vandloebstype
+Myndighed 3,myndighed3
+Nedsivningspotentiale,nedsivningspotentiale
+Potentialekode,potentiale_kode
+Tilladelse udløbet,tilladelse_udloebet
+Nedsivningsevne,nedsivningsevne
+Byggesag: '+ link_byggesag,link_byggesag
+Miljøsag: '+ link_miljoesag,link_miljoesag
+Start dato,start_dato
+Slut dato,slut_dato
+Vandmængde,vandmaengde
+Aktiv,aktiv
+Kontaktperson KK,kontaktperson1_kk
+Kontaktperson HOFOR,kontaktperson_hofor
+Projekt navn,projekt
+System status,system_status
+Ejer spildevand,ejer_spildevand
+Ejer vejvand,ejer_vejvand
+Ejer tagvand,ejer_tagvand
+Status_plan,status_plan
+Kloaksystem status,kloaksystem_status
+Kloaksystem plan,kloaksystem_plan
+PE status,pe_status
+PE plan,pe_plan
+Udløb status,udloeb_status
+Udløb plan,udloeb_plan
+Befæstet areal status,befaestet_areal_status
+Befæstet areal plan,befaestet_areal_plan
+Renseanlæg,renseanlaeg
+Type_id,type_id
+Type_afloeb_kode,type_afloeb_kode
+Afløbstype,afloebstype
+Geoid,geoid
+"Rensning, status",rensning_status
+"Overløb pr.år, status",overloeb_pr_aar_status
+Stationsnummer,TOSTRING(STATIONSNR)
+Start år,TOSTRING(START_AAR)
+Formål,formaal
+Art,art
+Kunde nr.,kundeid
+Ordre nr.,ordrenr
+Gade,gade
+Fra dato,fradato
+Til dato,tildato
+"Kontakt, tlf",telefon
+email,mail
+beskrivelse,beskrivelse
+geometry,shape_wkt
