@@ -10,8 +10,14 @@ presentation_dictionary.ipynb and prensentation_scraper.py contaions the scraper
 
 
 # To do:
-- [ ] Better name suggestion from column names
+- [X] Better name suggestion from column names
+
+- [X] Add probability score for each suggestion
+
 - [ ] Optimize presentation scraper
-- [ ] Look up tuple lists instead of dictionary for scraping
+
+- [X] Look up tuple lists instead of dictionary for scraping
+
 - [ ] Optimize cleanup of "dirty" keys/values
+
 - [ ] Create link recognition, for </a> tag use
